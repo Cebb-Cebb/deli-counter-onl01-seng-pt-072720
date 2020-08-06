@@ -1,5 +1,5 @@
 # Write your code here.
-def line(current_place)
+def line()
   katz_deli = []
   
   
